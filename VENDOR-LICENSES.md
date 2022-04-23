@@ -1,6 +1,6 @@
 Licenses for Vendored Software
 ==============================
-
+  
 Sphinx plugins for Django documentation
 ---------------------------------------
 
